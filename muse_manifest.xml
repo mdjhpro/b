@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="BR.com" resolutions="1x" timestamp="1516101081899">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="BR.com" resolutions="1x" timestamp="1516101225426">
   <folder name="css">
     <file name="site_global.css" crc="125189226"/>
     <file name="master_a-master.css" crc="3955721754" ref="br-technical-club:contact-me:pcexe:index:software:creating:suggestions:androidapk:youtube-channels"/>
     <file name="br-technical-club.css" crc="3766759994" ref="br-technical-club"/>
     <file name="contact-me.css" crc="501708716" ref="contact-me"/>
     <file name="pcexe.css" crc="3761194140" ref="pcexe"/>
-    <file name="index.css" crc="293471207" ref="index"/>
+    <file name="index.css" crc="71636445" ref="index"/>
     <file name="software.css" crc="3761194140" ref="software"/>
     <file name="creating.css" crc="3885700357" ref="creating"/>
     <file name="suggestions.css" crc="3764104259" ref="suggestions"/>
@@ -66,7 +66,7 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="3787614262" seo="true" mt="1516101020724" redirect="true"/>
+  <file name="index.html" crc="49709233" seo="true" mt="1516101205850" redirect="true"/>
   <file name="software.html" crc="451379425" seo="true" mt="1516101020724" redirect="true"/>
   <file name="youtube-channels.html" crc="3913992517" seo="true" mt="1516101020724" redirect="true"/>
   <file name="contact-me.html" crc="508971515" seo="true" mt="1516101020771" redirect="true"/>
