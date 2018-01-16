@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="BR.com" resolutions="1x" timestamp="1516100254933">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="BR.com" resolutions="1x" timestamp="1516100547537">
   <folder name="css">
     <file name="site_global.css" crc="314571582"/>
     <file name="master_a-master.css" crc="3937434530" ref="br-technical-club:contact-me:pcexe:index:software:creating:suggestions:androidapk:youtube-channels"/>
     <file name="br-technical-club.css" crc="209672057" ref="br-technical-club"/>
-    <file name="contact-me.css" crc="3896903871" ref="contact-me"/>
+    <file name="contact-me.css" crc="3888696670" ref="contact-me"/>
     <file name="pcexe.css" crc="4131801648" ref="pcexe"/>
     <file name="index.css" crc="3818029860" ref="index"/>
     <file name="software.css" crc="4131801648" ref="software"/>
@@ -17,7 +17,7 @@
     <file name="museutils.js" crc="3803043152" ref="index:software:youtube-channels:contact-me:pcexe:androidapk:br-technical-club:suggestions:creating"/>
     <file name="whatinput.js" crc="86476730" ref="index:software:youtube-channels:contact-me:pcexe:androidapk:br-technical-club:suggestions:creating"/>
     <file name="museconfig.js" crc="380897831" ref="index:software:youtube-channels:contact-me:pcexe:androidapk:br-technical-club:suggestions:creating"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:contact-me"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:software:youtube-channels:contact-me:pcexe:androidapk:br-technical-club:suggestions:creating"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:software:youtube-channels:contact-me:pcexe:androidapk:br-technical-club:suggestions:creating"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
@@ -28,13 +28,15 @@
     <file name="require.js" crc="4157109226" ref="index:software:youtube-channels:contact-me:pcexe:androidapk:br-technical-club:suggestions:creating"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3916782372" ref="index"/>
-    <file name="br.png" crc="429945128" ref="index">
+    <file name="a-master-favicon.ico" crc="3916782372" ref="index:contact-me"/>
+    <file name="br.png" crc="429945128" ref="index:contact-me">
       <caption webpage="index" alt=""/>
+      <caption webpage="contact-me" alt=""/>
       <caption webpage="suggestions" alt=""/>
     </file>
-    <file name="animals-84a.jpg" crc="523267213" ref="index">
+    <file name="animals-84a.jpg" crc="523267213" ref="index:contact-me">
       <caption webpage="index" alt="BR The World of Sorrows"/>
+      <caption webpage="contact-me" alt="BR The World of Sorrows"/>
       <caption webpage="suggestions" alt="BR The World of Sorrows"/>
     </file>
     <file name="01 (7)-crop-u463.jpg" crc="461458973" seo="true" ref="index">
@@ -67,7 +69,7 @@
   <file name="index.html" crc="4205034369" seo="true" mt="1516100132231" redirect="true"/>
   <file name="software.html" crc="53827383" seo="true" mt="1516100132231" redirect="true"/>
   <file name="youtube-channels.html" crc="259502066" seo="true" mt="1516100132231" redirect="true"/>
-  <file name="contact-me.html" crc="49494145" seo="true" mt="1516100132231" redirect="true"/>
+  <file name="contact-me.html" crc="403325396" seo="true" mt="1516100526046" redirect="true"/>
   <file name="pcexe.html" crc="496376718" seo="true" mt="1516100132231" redirect="true"/>
   <file name="androidapk.html" crc="287491560" seo="true" mt="1516100132231" redirect="true"/>
   <file name="br-technical-club.html" crc="4202065594" seo="true" mt="1516100132231" redirect="true"/>
