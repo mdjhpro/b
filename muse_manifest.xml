@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="BR.com" resolutions="1x" timestamp="1516099915804">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="BR.com" resolutions="1x" timestamp="1516100254933">
   <folder name="css">
     <file name="site_global.css" crc="314571582"/>
     <file name="master_a-master.css" crc="3937434530" ref="br-technical-club:contact-me:pcexe:index:software:creating:suggestions:androidapk:youtube-channels"/>
@@ -64,13 +64,13 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="3887794200" seo="true" mt="1516099530547" redirect="true"/>
-  <file name="software.html" crc="170356580" seo="true" mt="1516099530547" redirect="true"/>
-  <file name="youtube-channels.html" crc="4191023425" seo="true" mt="1516099530547" redirect="true"/>
-  <file name="contact-me.html" crc="109508655" seo="true" mt="1516099530547" redirect="true"/>
-  <file name="pcexe.html" crc="420350944" seo="true" mt="1516099530547" redirect="true"/>
-  <file name="androidapk.html" crc="4060938695" seo="true" mt="1516099530547" redirect="true"/>
-  <file name="br-technical-club.html" crc="469927778" seo="true" mt="1516099530547" redirect="true"/>
-  <file name="suggestions.html" crc="3861579958" seo="true" mt="1516099530547" redirect="true"/>
-  <file name="creating.html" crc="427427376" seo="true" mt="1516099530547" redirect="true"/>
+  <file name="index.html" crc="4205034369" seo="true" mt="1516100132231" redirect="true"/>
+  <file name="software.html" crc="53827383" seo="true" mt="1516100132231" redirect="true"/>
+  <file name="youtube-channels.html" crc="259502066" seo="true" mt="1516100132231" redirect="true"/>
+  <file name="contact-me.html" crc="49494145" seo="true" mt="1516100132231" redirect="true"/>
+  <file name="pcexe.html" crc="496376718" seo="true" mt="1516100132231" redirect="true"/>
+  <file name="androidapk.html" crc="287491560" seo="true" mt="1516100132231" redirect="true"/>
+  <file name="br-technical-club.html" crc="4202065594" seo="true" mt="1516100132231" redirect="true"/>
+  <file name="suggestions.html" crc="268724394" seo="true" mt="1516100132231" redirect="true"/>
+  <file name="creating.html" crc="3896148918" seo="true" mt="1516100132244" redirect="true"/>
 </manifest>
