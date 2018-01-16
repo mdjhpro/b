@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="BR.com" resolutions="1x" timestamp="1516092894377">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="BR.com" resolutions="1x" timestamp="1516099370467">
   <folder name="css">
     <file name="site_global.css" crc="314571582"/>
-    <file name="master_a-master.css" crc="3797539148" ref="br-technical-club:contact-me:pcexe:index:software:creating:suggestions:androidapk:youtube-channels"/>
-    <file name="br-technical-club.css" crc="250868444" ref="br-technical-club"/>
-    <file name="contact-me.css" crc="366195423" ref="contact-me"/>
-    <file name="pcexe.css" crc="4053959902" ref="pcexe"/>
-    <file name="index.css" crc="4103263232" ref="index"/>
-    <file name="software.css" crc="4053959902" ref="software"/>
-    <file name="creating.css" crc="3778172457" ref="creating"/>
-    <file name="suggestions.css" crc="3968955956" ref="suggestions"/>
-    <file name="androidapk.css" crc="4053959902" ref="androidapk"/>
-    <file name="youtube-channels.css" crc="4053959902" ref="youtube-channels"/>
+    <file name="master_a-master.css" crc="3937434530" ref="br-technical-club:contact-me:pcexe:index:software:creating:suggestions:androidapk:youtube-channels"/>
+    <file name="br-technical-club.css" crc="209672057" ref="br-technical-club"/>
+    <file name="contact-me.css" crc="3896903871" ref="contact-me"/>
+    <file name="pcexe.css" crc="4131801648" ref="pcexe"/>
+    <file name="index.css" crc="3818029860" ref="index"/>
+    <file name="software.css" crc="4131801648" ref="software"/>
+    <file name="creating.css" crc="241107214" ref="creating"/>
+    <file name="suggestions.css" crc="6452007" ref="suggestions"/>
+    <file name="androidapk.css" crc="4131801648" ref="androidapk"/>
+    <file name="youtube-channels.css" crc="4131801648" ref="youtube-channels"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:software:youtube-channels:contact-me:pcexe:androidapk:br-technical-club:suggestions:creating"/>
@@ -64,13 +64,13 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="4043197277" seo="true" mt="1516092876823" redirect="true"/>
-  <file name="software.html" crc="101777254" seo="true" mt="1516092876823" redirect="true"/>
-  <file name="youtube-channels.html" crc="4187088436" seo="true" mt="1516092876823" redirect="true"/>
-  <file name="contact-me.html" crc="4006751608" seo="true" mt="1516092876823" redirect="true"/>
-  <file name="pcexe.html" crc="508917464" seo="true" mt="1516092876823" redirect="true"/>
-  <file name="androidapk.html" crc="4216836648" seo="true" mt="1516092876823" redirect="true"/>
-  <file name="br-technical-club.html" crc="3967981783" seo="true" mt="1516092876823" redirect="true"/>
-  <file name="suggestions.html" crc="516165518" seo="true" mt="1516092876823" redirect="true"/>
-  <file name="creating.html" crc="12695756" seo="true" mt="1516092876823" redirect="true"/>
+  <file name="index.html" crc="3887794200" seo="true" mt="1516099331251" redirect="true"/>
+  <file name="software.html" crc="170356580" seo="true" mt="1516099331251" redirect="true"/>
+  <file name="youtube-channels.html" crc="4191023425" seo="true" mt="1516099331251" redirect="true"/>
+  <file name="contact-me.html" crc="109508655" seo="true" mt="1516099331251" redirect="true"/>
+  <file name="pcexe.html" crc="420350944" seo="true" mt="1516099331251" redirect="true"/>
+  <file name="androidapk.html" crc="4060938695" seo="true" mt="1516099331251" redirect="true"/>
+  <file name="br-technical-club.html" crc="469927778" seo="true" mt="1516099331251" redirect="true"/>
+  <file name="suggestions.html" crc="3861579958" seo="true" mt="1516099331251" redirect="true"/>
+  <file name="creating.html" crc="427427376" seo="true" mt="1516099331251" redirect="true"/>
 </manifest>
