@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="BR.com" resolutions="1x" timestamp="1516090047388">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="BR.com" resolutions="1x" timestamp="1516092294748">
   <folder name="css">
     <file name="site_global.css" crc="314571582"/>
-    <file name="master_a-master.css" crc="448132645" ref="br-technical-club:contact-me:pcexe:index:software:creating:suggestions:androidapk:youtube-channels"/>
-    <file name="br-technical-club.css" crc="3780846264" ref="br-technical-club"/>
-    <file name="contact-me.css" crc="320009853" ref="contact-me"/>
-    <file name="pcexe.css" crc="329824419" ref="pcexe"/>
-    <file name="index.css" crc="3783844042" ref="index"/>
-    <file name="software.css" crc="329824419" ref="software"/>
-    <file name="creating.css" crc="4078086694" ref="creating"/>
-    <file name="suggestions.css" crc="3798219529" ref="suggestions"/>
-    <file name="androidapk.css" crc="329824419" ref="androidapk"/>
-    <file name="youtube-channels.css" crc="329824419" ref="youtube-channels"/>
+    <file name="master_a-master.css" crc="212509813" ref="br-technical-club:contact-me:pcexe:index:software:creating:suggestions:androidapk:youtube-channels"/>
+    <file name="br-technical-club.css" crc="325515297" ref="br-technical-club"/>
+    <file name="contact-me.css" crc="366195423" ref="contact-me"/>
+    <file name="pcexe.css" crc="4053959902" ref="pcexe"/>
+    <file name="index.css" crc="347672166" ref="index"/>
+    <file name="software.css" crc="4053959902" ref="software"/>
+    <file name="creating.css" crc="4238826708" ref="creating"/>
+    <file name="suggestions.css" crc="3941073582" ref="suggestions"/>
+    <file name="androidapk.css" crc="4053959902" ref="androidapk"/>
+    <file name="youtube-channels.css" crc="4053959902" ref="youtube-channels"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:software:youtube-channels:contact-me:pcexe:androidapk:br-technical-club:suggestions:creating"/>
@@ -64,13 +64,13 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="12236218" seo="true" mt="1516089758507" redirect="true"/>
-  <file name="software.html" crc="3812124970" seo="true" mt="1516089758507" redirect="true"/>
-  <file name="youtube-channels.html" crc="129534346" seo="true" mt="1516089758507" redirect="true"/>
-  <file name="contact-me.html" crc="33326816" seo="true" mt="1516089986556" redirect="true"/>
-  <file name="pcexe.html" crc="294670027" seo="true" mt="1516089758507" redirect="true"/>
-  <file name="androidapk.html" crc="57225243" seo="true" mt="1516089758507" redirect="true"/>
-  <file name="br-technical-club.html" crc="4136540565" seo="true" mt="1516089758507" redirect="true"/>
-  <file name="suggestions.html" crc="499948475" seo="true" mt="1516089758507" redirect="true"/>
-  <file name="creating.html" crc="3925543832" seo="true" mt="1516089758507" redirect="true"/>
+  <file name="index.html" crc="3832775110" seo="true" mt="1516092276288" redirect="true"/>
+  <file name="software.html" crc="9235865" seo="true" mt="1516092276288" redirect="true"/>
+  <file name="youtube-channels.html" crc="3984310586" seo="true" mt="1516092276288" redirect="true"/>
+  <file name="contact-me.html" crc="4276226714" seo="true" mt="1516092276288" redirect="true"/>
+  <file name="pcexe.html" crc="4292266203" seo="true" mt="1516092276288" redirect="true"/>
+  <file name="androidapk.html" crc="4007828402" seo="true" mt="1516092276288" redirect="true"/>
+  <file name="br-technical-club.html" crc="4155785416" seo="true" mt="1516092276288" redirect="true"/>
+  <file name="suggestions.html" crc="4038655470" seo="true" mt="1516092276288" redirect="true"/>
+  <file name="creating.html" crc="104210981" seo="true" mt="1516092276288" redirect="true"/>
 </manifest>
