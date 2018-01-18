@@ -1,80 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://BR.com/index.html</loc>
+    <loc>http://br.com/index.html</loc>
     <lastmod>2018-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://BR.com/images/01%20(7)-crop-u463.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://BR.com/images/3-d-179v-crop-u604.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://BR.com/images/abstract-11v-crop-u624.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://BR.com/images/abstract-28a-crop-u644.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://BR.com/images/abstract-33v-crop-u664.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://BR.com/images/abstract-160a-crop-u684.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://BR.com/images/adni18_linux103-crop-u704.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://BR.com/images/animals-82a-crop-u724.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://BR.com/software.html</loc>
-    <lastmod>2018-01-16</lastmod>
+    <loc>http://br.com/youtube-channels.html</loc>
+    <lastmod>2018-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://BR.com/youtube-channels.html</loc>
-    <lastmod>2018-01-16</lastmod>
+    <loc>http://br.com/contact-me.html</loc>
+    <lastmod>2018-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://BR.com/contact-me.html</loc>
-    <lastmod>2018-01-16</lastmod>
+    <loc>http://br.com/br-technical-club.html</loc>
+    <lastmod>2018-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://BR.com/pcexe.html</loc>
-    <lastmod>2018-01-16</lastmod>
+    <loc>http://br.com/softwares.html</loc>
+    <lastmod>2018-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://BR.com/androidapk.html</loc>
-    <lastmod>2018-01-16</lastmod>
+    <loc>http://br.com/pc--exe.html</loc>
+    <lastmod>2018-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://BR.com/br-technical-club.html</loc>
-    <lastmod>2018-01-16</lastmod>
+    <loc>http://br.com/android--apk.html</loc>
+    <lastmod>2018-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://BR.com/suggestions.html</loc>
-    <lastmod>2018-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://BR.com/creating.html</loc>
-    <lastmod>2018-01-16</lastmod>
+    <loc>http://br.com/sugessions.html</loc>
+    <lastmod>2018-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

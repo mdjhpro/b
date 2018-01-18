@@ -1,78 +1,50 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="BR.com" resolutions="1x" timestamp="1516164328310">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="br.com" resolutions="1x" timestamp="1516243234720">
   <folder name="css">
-    <file name="site_global.css" crc="125189226"/>
-    <file name="master_a-master.css" crc="3955721754" ref="br-technical-club:contact-me:pcexe:index:software:creating:suggestions:androidapk:youtube-channels"/>
-    <file name="br-technical-club.css" crc="3766759994" ref="br-technical-club"/>
-    <file name="contact-me.css" crc="501708716" ref="contact-me"/>
-    <file name="pcexe.css" crc="3761194140" ref="pcexe"/>
-    <file name="index.css" crc="71636445" ref="index"/>
-    <file name="software.css" crc="3761194140" ref="software"/>
-    <file name="creating.css" crc="3885700357" ref="creating"/>
-    <file name="suggestions.css" crc="3764104259" ref="suggestions"/>
-    <file name="androidapk.css" crc="3761194140" ref="androidapk"/>
-    <file name="youtube-channels.css" crc="3761194140" ref="youtube-channels"/>
+    <file name="site_global.css" crc="347579958"/>
+    <file name="master_a-master.css" crc="448329710" ref="br-technical-club:contact-me:index:youtube-channels:android--apk:softwares:sugessions:pc--exe"/>
+    <file name="br-technical-club.css" crc="3994531022" ref="br-technical-club"/>
+    <file name="contact-me.css" crc="3994531022" ref="contact-me"/>
+    <file name="index.css" crc="3994531022" ref="index"/>
+    <file name="youtube-channels.css" crc="3994531022" ref="youtube-channels"/>
+    <file name="android--apk.css" crc="3994531022" ref="android--apk"/>
+    <file name="softwares.css" crc="3994531022" ref="softwares"/>
+    <file name="sugessions.css" crc="3994531022" ref="sugessions"/>
+    <file name="pc--exe.css" crc="3994531022" ref="pc--exe"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:software:youtube-channels:contact-me:pcexe:androidapk:br-technical-club:suggestions:creating"/>
-    <file name="museutils.js" crc="3803043152" ref="index:software:youtube-channels:contact-me:pcexe:androidapk:br-technical-club:suggestions:creating"/>
-    <file name="whatinput.js" crc="86476730" ref="index:software:youtube-channels:contact-me:pcexe:androidapk:br-technical-club:suggestions:creating"/>
-    <file name="museconfig.js" crc="380897831" ref="index:software:youtube-channels:contact-me:pcexe:androidapk:br-technical-club:suggestions:creating"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:youtube-channels:contact-me:br-technical-club:softwares:pc--exe:android--apk:sugessions"/>
+    <file name="museutils.js" crc="3803043152" ref="index:youtube-channels:contact-me:br-technical-club:softwares:pc--exe:android--apk:sugessions"/>
+    <file name="whatinput.js" crc="86476730" ref="index:youtube-channels:contact-me:br-technical-club:softwares:pc--exe:android--apk:sugessions"/>
+    <file name="museconfig.js" crc="380897831" ref="index:youtube-channels:contact-me:br-technical-club:softwares:pc--exe:android--apk:sugessions"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:software:youtube-channels:contact-me:pcexe:androidapk:br-technical-club:suggestions:creating"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:software:youtube-channels:contact-me:pcexe:androidapk:br-technical-club:suggestions:creating"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:software:youtube-channels:contact-me:pcexe:androidapk:br-technical-club:suggestions:creating"/>
-    <file name="require.js" crc="4157109226" ref="index:software:youtube-channels:contact-me:pcexe:androidapk:br-technical-club:suggestions:creating"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:youtube-channels:contact-me:br-technical-club:softwares:pc--exe:android--apk:sugessions"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:youtube-channels:contact-me:br-technical-club:softwares:pc--exe:android--apk:sugessions"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:youtube-channels:contact-me:br-technical-club:softwares:pc--exe:android--apk:sugessions"/>
+    <file name="require.js" crc="4157109226" ref="index:youtube-channels:contact-me:br-technical-club:softwares:pc--exe:android--apk:sugessions"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3916782372" ref="index"/>
-    <file name="br.png" crc="429945128" ref="index">
+    <file name="br.png" crc="3937557625" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="contact-me" alt=""/>
       <caption webpage="suggestions" alt=""/>
+      <caption webpage="contact-me" alt=""/>
     </file>
-    <file name="animals-84a.jpg" crc="523267213" ref="index">
-      <caption webpage="index" alt="BR The World of Sorrows"/>
-      <caption webpage="contact-me" alt="BR The World of Sorrows"/>
-      <caption webpage="suggestions" alt="BR The World of Sorrows"/>
-    </file>
-    <file name="01 (7)-crop-u463.jpg" crc="461458973" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="3-d-179v-crop-u604.jpg" crc="123879260" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="abstract-11v-crop-u624.jpg" crc="4227556788" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="abstract-28a-crop-u644.jpg" crc="447314685" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="abstract-33v-crop-u664.jpg" crc="4123576222" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="abstract-160a-crop-u684.jpg" crc="4181901326" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="adni18_linux103-crop-u704.jpg" crc="160771387" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="animals-82a-crop-u724.jpg" crc="4171862354" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:softwares:pc--exe:android--apk:youtube-channels:br-technical-club:sugessions:contact-me"/>
+    <file name="u124-4.png" crc="3768115375" ref="index:softwares:pc--exe:android--apk:youtube-channels:br-technical-club:sugessions:contact-me"/>
+    <file name="u226.png" crc="496001302" ref="index:softwares:pc--exe:android--apk:youtube-channels:br-technical-club:sugessions:contact-me"/>
+    <file name="u226-a.png" crc="4092054802" ref="index:softwares:pc--exe:android--apk:youtube-channels:br-technical-club:sugessions:contact-me"/>
+    <file name="u215.png" crc="440772956" ref="index:softwares:pc--exe:android--apk:youtube-channels:br-technical-club:sugessions:contact-me"/>
+    <file name="u215-a.png" crc="3814166187" ref="index:softwares:pc--exe:android--apk:youtube-channels:br-technical-club:sugessions:contact-me"/>
+    <file name="u263.png" crc="3958265497" ref="index:softwares:pc--exe:android--apk:youtube-channels:br-technical-club:sugessions:contact-me"/>
+    <file name="u263-a.png" crc="26736521" ref="index:softwares:pc--exe:android--apk:youtube-channels:br-technical-club:sugessions:contact-me"/>
+    <file name="u285.png" crc="3939047024" ref="index:softwares:pc--exe:android--apk:youtube-channels:br-technical-club:sugessions:contact-me"/>
+    <file name="u285-a.png" crc="4160481846" ref="index:softwares:pc--exe:android--apk:youtube-channels:br-technical-club:sugessions:contact-me"/>
   </folder>
-  <file name="index.html" crc="4195163986" seo="true" mt="1516164276085" redirect="true"/>
-  <file name="software.html" crc="451379425" seo="true" mt="1516101020724" redirect="true"/>
-  <file name="youtube-channels.html" crc="3913992517" seo="true" mt="1516101020724" redirect="true"/>
-  <file name="contact-me.html" crc="508971515" seo="true" mt="1516101020771" redirect="true"/>
-  <file name="pcexe.html" crc="305380065" seo="true" mt="1516101020724" redirect="true"/>
-  <file name="androidapk.html" crc="466245068" seo="true" mt="1516101020724" redirect="true"/>
-  <file name="br-technical-club.html" crc="3823316108" seo="true" mt="1516101020730" redirect="true"/>
-  <file name="suggestions.html" crc="4224567244" seo="true" mt="1516101020746" redirect="true"/>
-  <file name="creating.html" crc="3760840693" seo="true" mt="1516101020749" redirect="true"/>
+  <file name="index.html" crc="314103652" seo="true" mt="1516205799000" redirect="true"/>
+  <file name="youtube-channels.html" crc="142963818" seo="true" mt="1516205799000" redirect="true"/>
+  <file name="contact-me.html" crc="58163759" seo="true" mt="1516205799000" redirect="true"/>
+  <file name="br-technical-club.html" crc="4123723102" seo="true" mt="1516205799000" redirect="true"/>
+  <file name="softwares.html" crc="3973291389" seo="true" mt="1516205799000" redirect="true"/>
+  <file name="pc--exe.html" crc="120830030" seo="true" mt="1516205799000" redirect="true"/>
+  <file name="android--apk.html" crc="3802930339" seo="true" mt="1516205799000" redirect="true"/>
+  <file name="sugessions.html" crc="284887097" seo="true" mt="1516205799000" redirect="true"/>
 </manifest>
